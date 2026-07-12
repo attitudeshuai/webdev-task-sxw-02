@@ -160,7 +160,7 @@ webdev-task-sxw-02/
 
 ---
 
-## 已知问题
+## 已知限制
 
 1. `docker-compose.yml` 中 `characterEncoding=utf8` 应为 `UTF-8`，否则中文乱码
 2. 同一用户可对同一宠物重复提交申请，无去重检查

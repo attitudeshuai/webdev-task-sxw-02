@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "petId": 1,
+    "petName": "旺财",
+    "realName": "张三",
+    "phone": "13800138000",
+    "address": "北京市朝阳区",
+    "housingType": "自有房",
+    "hasPetExperience": true,
+    "reason": "我们家一直想养一只金毛，有大房子和大院子，可以给旺财足够的活动空间。",
+    "status": "pending",
+    "statusText": "审核中",
+    "createdAt": "2026-07-10T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "petId": 3,
+    "petName": "豆豆",
+    "realName": "张三",
+    "phone": "13800138000",
+    "address": "北京市朝阳区",
+    "housingType": "自有房",
+    "hasPetExperience": true,
+    "reason": "柯基太可爱了，想给旺财找个小伙伴。",
+    "status": "approved",
+    "statusText": "已通过",
+    "createdAt": "2026-07-08T10:00:00Z"
+  }
+]

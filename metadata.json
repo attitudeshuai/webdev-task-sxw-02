@@ -1,0 +1,27 @@
+{
+  "task_id": "webdev-task-sxw-02",
+  "title": "宠遇 - 宠物领养平台",
+  "category_tags": [
+    "内容/社区：宠物领养 / 信息展示平台"
+  ],
+  "arena_tags": [
+    "ui",
+    "e-commerce",
+    "content",
+    "fullstack"
+  ],
+  "prompt_type": "全栈",
+  "required_tools": [
+    "browser",
+    "playwright",
+    "screenshot",
+    "docker"
+  ],
+  "difficulty": "high",
+  "annotator": "sxw",
+  "reviewer": "",
+  "status": "draft",
+  "version": "0.1.0",
+  "created_at": "2026-07-12T00:00:00.000000Z",
+  "updated_at": "2026-07-12T00:00:00.000000Z"
+}

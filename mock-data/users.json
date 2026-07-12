@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "username": "zhangsan",
+    "password": "123456",
+    "email": "zhangsan@example.com",
+    "realName": "张三",
+    "phone": "13800138000",
+    "address": "北京市朝阳区",
+    "housingType": "自有房",
+    "hasPetExperience": true,
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zhangsan",
+    "createdAt": "2026-06-01T10:00:00Z"
+  }
+]

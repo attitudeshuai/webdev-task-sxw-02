@@ -22,7 +22,9 @@
 | 状态管理 | Pinia                   | ^2.3  |
 | HTTP     | Axios                   | ^1.7  |
 | 图标     | Font Awesome 6 (CDN)    | ^6.7  |
+| 运行时   | Node.js                 | >= 18 |
 | 后端框架 | Spring Boot 3           | 3.x   |
+| 后端语言 | Java                    | 17    |
 | ORM      | MyBatis                 | 3.x   |
 | 数据库   | MySQL                   | 8.0   |
 | 认证     | JWT + BCrypt            | -     |
@@ -94,7 +96,7 @@ docker compose up --build
 # 前端
 cd frontend && npm install && npm run dev
 
-# 后端（需 MySQL 8.0 + Java 17 + Maven）
+# 后端（需 Node.js >= 18 + Java 17 + Maven + MySQL 8.0）
 cd backend && mvn spring-boot:run
 ```
 
